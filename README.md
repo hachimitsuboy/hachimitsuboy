@@ -1,5 +1,5 @@
 # Akinobu Nagae
-
+### Hi ＾＾ I'm a japanese student
 <p>
   <a href="https://www.instagram.com/8mitsul3oy/">
     <img src="https://img.shields.io/badge/Instagram-8mitsul3oy-F26939.svg?logo=instagram&style=popout">
