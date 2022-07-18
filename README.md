@@ -1,4 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hachimitsuboy&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=hachimitsuboy&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hachimitsuboy&layout=compact&theme=tokyonight)
 
 <!--
 **hachimitsuboy/hachimitsuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
