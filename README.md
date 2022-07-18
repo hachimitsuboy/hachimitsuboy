@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hachimitsuboy&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachimitsuboy&thme=aura)](https://github.com/hachimitsuboy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachimitsuboy&layout=compact)](https://github.com/hachimitsuboy/github-readme-stats)
 <!--
 **hachimitsuboy/hachimitsuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
