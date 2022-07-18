@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hachimitsuboy/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/hachimitsuboy/github-profile-summary-cards-example/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <!--
 **hachimitsuboy/hachimitsuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
