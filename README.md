@@ -1,7 +1,10 @@
 # 8mitsul3oy
 
 <a href="https://www.instagram.com/8mitsul3oy/">
-  <img src="https://img.shields.io/badge/Instagram-8mitsul3oy-F26939.svg?logo=instagram&style=popout"> </a> <img src="https://img.shields.io/badge/Flutter-Beginner-02569B.svg?logo=flutter&style=popout">
+  <img align="center" src="https://img.shields.io/badge/Instagram-8mitsul3oy-F26939.svg?logo=instagram&style=popout">
+</a>
+
+<img align="center" src="https://img.shields.io/badge/Flutter-Beginner-02569B.svg?logo=flutter&style=popout">
 
 
 
