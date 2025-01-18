@@ -1,11 +1,6 @@
 # Akinobu Nagae
 ### Hi ＾＾ M estas hachimitsuboy.
-<p>
-  <a href="https://www.instagram.com/8mitsul3oy/">
-    <img src="https://img.shields.io/badge/Instagram-8mitsul3oy-F26939.svg?logo=instagram&style=popout">
-  </a>
-  <img src="https://img.shields.io/badge/Flutter-Beginner-02569B.svg?logo=flutter&style=popout">
-</p>
+
 
 
 <a href="https://github.com/hachimitsuboy/github-readme-stats">
